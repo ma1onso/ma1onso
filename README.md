@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/HeroicoGames/
-- 👯 I’m looking to collaborate on https://github.com/HeroicoGames/
+- 👯 I’m looking for collaborators (artists and musicians) for https://github.com/HeroicoGames/
 - 💬 Ask me about gamedev and python
 <!--
 **ma1onso/ma1onso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
