@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on https://github.com/HeroicoGames/
 - 👯 I’m looking for collaborators (artists and musicians) for https://github.com/HeroicoGames/
 - 💬 Ask me about gamedev and python
+
+[![ma1onso's GitHub stats](https://github-readme-stats.vercel.app/api?username=ma1onso&theme=dracula&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ma1onso/ma1onso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
